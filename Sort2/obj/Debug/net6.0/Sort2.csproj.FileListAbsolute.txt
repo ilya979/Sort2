@@ -1,0 +1,15 @@
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.csproj.AssemblyReference.cache
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.AssemblyInfoInputs.cache
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.AssemblyInfo.cs
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.csproj.CoreCompileInputs.cache
+C:\Users\ibaikov\source\repos\Sort2\Sort2\bin\Debug\net6.0\Sort2.exe
+C:\Users\ibaikov\source\repos\Sort2\Sort2\bin\Debug\net6.0\Sort2.deps.json
+C:\Users\ibaikov\source\repos\Sort2\Sort2\bin\Debug\net6.0\Sort2.runtimeconfig.json
+C:\Users\ibaikov\source\repos\Sort2\Sort2\bin\Debug\net6.0\Sort2.dll
+C:\Users\ibaikov\source\repos\Sort2\Sort2\bin\Debug\net6.0\Sort2.pdb
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.dll
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\refint\Sort2.dll
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.pdb
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\Sort2.genruntimeconfig.cache
+C:\Users\ibaikov\source\repos\Sort2\Sort2\obj\Debug\net6.0\ref\Sort2.dll
